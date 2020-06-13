@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367478617951",
+    "firebase_url": "https://projectprg-2d82d.firebaseio.com",
+    "project_id": "projectprg-2d82d",
+    "storage_bucket": "projectprg-2d82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367478617951:android:189b4f1517ad1b6e13a8ea",
+        "android_client_info": {
+          "package_name": "com.chat.projectprg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367478617951-uf9hfpusnfqcmiahvk7s16nfbprpbprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC9vUUXx3_JFPsQNLMiRqzt4iaBKqxc6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367478617951-uf9hfpusnfqcmiahvk7s16nfbprpbprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
